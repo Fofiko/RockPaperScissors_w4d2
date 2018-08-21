@@ -1,0 +1,28 @@
+html, body {
+  font-family: Asap, sans-serif;
+  background-color: #AFB3F7;
+}
+
+
+a {
+  color: #03012C;
+  font-family: 'Asap', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-align: right;
+  text-transform: uppercase;
+  text-decoration: none;
+  display: inline-block;
+  margin: 20px auto;
+  /* padding: 0px 20px; */
+}
+
+a:hover {
+  color: #B75D69;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
