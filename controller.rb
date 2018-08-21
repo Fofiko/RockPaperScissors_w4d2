@@ -5,8 +5,8 @@ require('./models/game')
 also_reload('./models/*')
 
 
-get '/' do
-  erb(:home)
+get '/welcome' do
+  erb(:welcome)
 end
 
 

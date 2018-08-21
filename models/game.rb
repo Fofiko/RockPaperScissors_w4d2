@@ -13,7 +13,7 @@ class Game
     elsif (@player1 == 'paper' && @player2 == 'scissors') || (@player1 == 'scissors' && @player2 == 'paper')
       return "Scissors beats paper."
     else
-      return "It's a draw!"
+      return "It's a tie!"
     end
   end
 
