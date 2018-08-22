@@ -7,14 +7,13 @@ html, body {
 a {
   color: #03012C;
   font-family: 'Asap', sans-serif;
-  font-size: 16px;
+  font-size: 16pt;
   font-weight: 300;
   text-align: right;
   text-transform: uppercase;
   text-decoration: none;
   display: inline-block;
-  margin: 20px auto;
-  /* padding: 0px 20px; */
+  margin: 20pt auto;
 }
 
 a:hover {
